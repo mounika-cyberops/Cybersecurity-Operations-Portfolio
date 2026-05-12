@@ -21,6 +21,34 @@ Security breaches may lead to:
 - data exposure
 - regulatory consequences
 
+## Real-World Security Breach Examples
+
+### Marriott Data Breach
+Attackers gained unauthorized access to customer information affecting millions of hotel guests.
+
+#### Possible Impact
+- exposure of personal information
+- privacy risks
+- reputational damage
+
+#### Security Lessons
+- strengthen access controls
+- improve monitoring
+- implement stronger authentication measures
+
+### Equifax Data Breach
+Attackers exploited a known web application vulnerability and exposed sensitive customer information.
+
+#### Possible Impact
+- financial fraud risks
+- identity theft
+- large-scale data exposure
+
+#### Security Lessons
+- timely vulnerability patching
+- continuous security monitoring
+- stronger incident response practices
+
 ## SOC Relevance
 SOC analysts monitor alerts, logs, and suspicious activities to help identify security incidents early and reduce organizational impact.
 
